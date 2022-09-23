@@ -38,7 +38,7 @@ body {
   line-height: 1.5;
   font-size: 18px;
   letter-spacing: .1em;
-  background: var(--light);
+  background: var(--secondary);
   font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -95,7 +95,7 @@ a:hover {
 }
 
 header {
-  background: var(--dark);
+  background: var(--primary);
 }
 
 header a {
@@ -274,7 +274,7 @@ textarea {
 }
 
 .card {
-  background-color: var(--white);
+  background-color: var(--secondary);
   border-radius: 5px;
   height: 400px;
   margin: 2rem;
@@ -288,7 +288,7 @@ textarea {
   overflow: hidden;
   text-align: center;
   border-radius: 10px;
-  background-color: var(--white);
+  background-color: var(--tertiary);
 }
 
 .card .img-container img {

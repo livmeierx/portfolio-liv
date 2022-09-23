@@ -1,5 +1,5 @@
-import React from 'redact';
-import 'bootstrap/dist/css/boostrap.min.css';
+import React from 'react';
+// import 'bootstrap/dist/css/boostrap.min.css';
 
 function ProjectCards(props) {
     return (
