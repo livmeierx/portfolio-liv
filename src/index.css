@@ -164,6 +164,12 @@ li {
 }
 
 .nav-title-font {
+  font-family: 'Trirong';
+  font-size: 1.9em;
+  padding-left: 20px;
+}
+
+.-font {
   font-family: 'Oswald';
   font-size: 1.9em;
 }
@@ -171,6 +177,7 @@ li {
 .top-title {
   font-family: 'Sofia';
   margin-top: 20px;
+  padding-left: 20px;
 }
 
 .navitem-indent {
@@ -264,6 +271,7 @@ textarea {
 
 .wrapper {
   padding-top: 50px;
+  padding-bottom: 50px;
   justify-content: space-around;
   height: 100%;
   display: flex;
