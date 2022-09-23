@@ -1,7 +1,7 @@
 {
+  "homepage": "https://livmeierx.github.io/portfolio-liv/",
   "name": "portfolio-liv",
   "version": "0.1.0",
-  "homepage": "https://livmeierx.github.io/portfolio-liv/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
