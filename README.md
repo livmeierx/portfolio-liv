@@ -1,4 +1,4 @@
-# [Liv's React Personal Portfolio](https://github.com/livmeierx/liv-react)
+# [Liv's React Personal Portfolio](https://github.com/livmeierx/portfolio-liv)
   
 ## Description
 
